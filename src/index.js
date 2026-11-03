@@ -1,6 +1,10 @@
 // src/index.js
-function greet(name) {
-  return `Hello, ${name}!`;
+function sumar(a, b) {
+  return a + b;
 }
 
-module.exports = greet;
+function restar(a, b) {
+  return a - b;
+}
+
+module.exports = sumar;
