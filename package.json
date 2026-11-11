@@ -1,0 +1,23 @@
+{
+  "name": "cesa7000-practicas",
+  "version": "1.0.0",
+  "description": "Esta es una practica inicial.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-ceste:dcasanova-ceste/cesa7000-practicas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
