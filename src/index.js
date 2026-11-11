@@ -7,4 +7,4 @@ function restar(a, b) {
   return a - b;
 }
 
-module.exports = sumar;
+module.exports = {sumar, restar};
